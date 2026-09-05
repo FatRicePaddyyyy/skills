@@ -10,7 +10,7 @@ gh skill install FatRicePaddyyyy/skills structure-first
 
 - `user-context` — 会話の関心事・手法・ドメイン／開発暗黙知を `PROFILE/` に機会収穫
 - `verbalize` — 違和感・気づきを言語化し、受け手に伝わる説明へ落とす
-- `structure-first` — 文章を書く前に構造（骨組み）を先に決める
+- `structure-first` — **文章作成時に使う。** 本文の前に構造を決め、確認してから書く
 
 ## よく使う外部 Skills
 
